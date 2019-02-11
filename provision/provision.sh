@@ -66,13 +66,14 @@ apt_package_install_list=(
   imagemagick
   subversion
   git
-  git-lfs
+  #git-lfs
   zip
   unzip
   ngrep
   curl
   make
   vim
+  emacs
   colordiff
   postfix
   python-pip
