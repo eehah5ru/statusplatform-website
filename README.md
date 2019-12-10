@@ -1,3 +1,9 @@
+# SRP website
+
+## How to upload
+
+`vagrant ssh -c "bash /vagrant/upload-to-statusproject-net.sh"`
+
 # Varying Vagrant Vagrants
 
 Varying Vagrant Vagrants is an open source [Vagrant](https://www.vagrantup.com) configuration focused on [WordPress](https://wordpress.org) development.
